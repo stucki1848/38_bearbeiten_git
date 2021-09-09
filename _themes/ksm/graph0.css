@@ -1,0 +1,95 @@
+.mstheme
+{
+	separator-image: url(tabrule.gif);
+	list-image-1: url(tabbul1.gif);
+	list-image-2: url(tabbul2.gif);
+	list-image-3: url(tabbul3.gif);
+	nav-banner-image: url(tabbanr.gif);
+	navbutton-horiz-normal: url(tabhbtn.gif);
+	navbutton-horiz-hovered: url(tabhbtn.gif);
+	navbutton-horiz-pushed: url(tabhsel.gif);
+	navbutton-vert-normal: url(tabvbtn.gif);
+	navbutton-vert-hovered: url(tabvbtn.gif);
+	navbutton-vert-pushed: url(tabvsel.gif);
+	navbutton-home-normal: url(tabhom.gif);
+	navbutton-home-hovered: url(tabhom.gif);
+	navbutton-home-pushed: url(tabhom.gif);
+	navbutton-next-normal: url(tabnxt.gif);
+	navbutton-next-hovered: url(tabnxt.gif);
+	navbutton-next-pushed: url(tabnxt.gif);
+	navbutton-prev-normal: url(tabbck.gif);
+	navbutton-prev-hovered: url(tabbck.gif);
+	navbutton-prev-pushed: url(tabbck.gif);
+	navbutton-up-normal: url(tabup.gif);
+	navbutton-up-hovered: url(tabup.gif);
+	navbutton-up-pushed: url(tabup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+.mstheme-navtxthome
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(tabbul1.gif);
+}
+ul ul
+{
+	list-style-image: url(tabbul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(tabbul3.gif);
+}

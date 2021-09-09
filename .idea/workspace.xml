@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0de271e-addc-4785-bc69-848aa7dd50b2" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-10-Jahre.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-MF.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-MIR-2006.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-MIR-2010-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-MIR.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2009.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2010.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2010_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2011.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2011_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2012.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2012_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2013.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2013_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2014.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2014_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2015.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2015_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles-Sythen_2016.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Aktuelles_Ganz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Datenschutz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Foto.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/HauptframeTitel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Impressum.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/10-Jahre.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Aktuelles.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Ausstellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Autorenlesung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/CORONA Absage März 2021.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/CORONA_Absage_Maerz_2021.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Clemens_Ganz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Eugen_Koenig.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Foto-Expedition.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Fotoausstellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Fotoausstellung_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Fotowettbewerb.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Herculaneum.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Hesse.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170129_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170226_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170326_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170430_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170528_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170625_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/170924_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/171030_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/171127_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/180107_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/180204_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/180304_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/180415_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/180902_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/181007_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/181104_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/181202_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/190106_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/190203_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/190303_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/190407_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/190901_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/191006_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/191103_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/191201_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/200105_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/200202_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/200301_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/200405_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/201004_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/201101_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/201206_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/210103_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/210207_LIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/LiS_2017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/LiS/LiS_2018.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/Kim.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2004-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2004-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2005-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2006-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2006-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2006-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2006-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2006-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2007-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2007-1a.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2007-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2007-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2007-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2008-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2008-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2008-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2008-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2008-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2009-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2009-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2009-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2009-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2010-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2010-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2010-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2010-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2010-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2011-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2011-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2011-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2011-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2011-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2012-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2012-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2012-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2012-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2012-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2013-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2013-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2013-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2013-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2013-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2014-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2014-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2014-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2014-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2014-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2015-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2015-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2015-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2015-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2015-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2016-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2016-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2016-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2016-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2016-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2017-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2017-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2017-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2017-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2018-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2018-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2018-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2018-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2018-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2019-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2019-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2019-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2019-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2019-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2020-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2020-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2020-3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2020-4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2020-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/MiR-2021-Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MIR/Titova.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MuensterlandFestivalQuartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Musikgenuss.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Münsterland Festival Quartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/MünsterlandFestivalQuartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Neujahrsgruss.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Pour_Feliciter_2008.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Rolf Behlert.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_0611Reisen0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_Ahlert-Schwab.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_Amadeus_Guitar_Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_Joaquin_Clerch.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/2009_Roman Viazovskiy.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/ahlert-schwab_Progr..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/amadeus-duo_Progr..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/2009/clerch_Progr..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Formular-Dateien/formularseite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Formular-Dateien/kleinpfeil.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Formular-Dateien/ksmkl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Formular-Dateien/links.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Formular-Dateien/smk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2008.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2009.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2010.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2011.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2012.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2013.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2014.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2014_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2015.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2015_Bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2016.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2017.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2018.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2019.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2020.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_2021.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/Sythener_Gitarrentage_Formular.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/bestaetigung-urlaub.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/bestellung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/bestellungneu.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/SG/viazovskiy_Progr..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Silbersee.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Sommer_2021.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Sommer_2021_old.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Aktuelles/Tango Konzert.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Datenschutz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Foerderer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Foto.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Impressum.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Kontakt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Konzerte-SG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Konzerte.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Konzerte_18-19.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Konzerte_19-20.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Konzerte_alt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/LIS/LiS_2017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/LiS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/LiS_Vorjahre.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Banner - Logo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Banner-Laufband.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Banner-Projekte.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Banner-leer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Frame-10-Jahre.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Frame-Startseite-Laufband.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Frame-Startseite.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Kulturengagement.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Logo-10-Jahre.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Logo-Start-Laufband.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Logo-Start-leer-Laufband.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Logo-Start-leer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Logo-Start.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Aktuelles-LiS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Aktuelles-MF.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Aktuelles-MIR.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Aktuelles-Sythen.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Aktuelles.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Konzerte.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Konzerte_Sythen.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Startseite.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-Startseite_Sythen.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue-leer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Logo/Menue.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Ahlert-Schwab-Sbrizzi.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Aldemir-Karayel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Altstaedt-von_Wienhardt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Amaryllis Quartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/BOVIARTrio.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Bulgakov-Katznelson.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Buschinger-Volkmer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Eckels-Wolff.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Gerhard_Vielhaber.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Grofmeier-Nguyen.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Kim-Bredohl.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Kirchesch-Heilmann.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Kohlmann-Kim.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Kohlmann_Kim.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Konzerte 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/MaRutTi-Trio.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Manaev-Titova.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Mayfair_Trio.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Roman_Viazovskiy.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Triomonia.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/MiR/Veldana-Quartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Musik-Download.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse-Chronologisch.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse-aktuell.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/011026RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/011117RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/020712WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/021206RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/021219WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030109WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030321RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030510RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030607RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030607RNb.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030620WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030922RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030922WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/030927RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/031107WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/031212RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/031212WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040114MiR.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040116WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040305RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040305WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040306Wettbewerb.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040423WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040423WAZ2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040424RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/040619RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041013WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041014RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041014WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041117RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041120WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041122RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/041203RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/050101VK2005.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/050121RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/050121WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/050311WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/051028RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/051202WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/060126RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/060317RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/061020WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/061130RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/061130WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/061201RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/061201WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/070124RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/070316RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/070821RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/070829SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/071208LithoM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/071208RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/071222RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080118RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080121WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080123StSpHa.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080229 Halterner Zeitung.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080229RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080403RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080810HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080812WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/080901HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/081023HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/081125HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/081125RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/081129RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/081206RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090207RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090314RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090803HZAmadeusGuitarDuo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090803HZJoachimClerch.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090803WAZAmadeusGuitarDuo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090824HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090824RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/090902StSpHa.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/091024ahls.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/091026HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100123RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100225_RN_LiteraturRE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100306_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100422HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100422_HZ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100809_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100809_Westline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100811_RZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100825_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100831_RZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/100901_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/101030_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/101030_RN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/101130_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110125_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110319_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110406_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110406_RN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110816_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110817_MZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110817_MZ_R.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110817_MZ_W.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110817_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110831_MZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110831_MZ_AM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110831_MZ_MG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110926_WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/110926_WAZ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/111022_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/111126_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120101_VK.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120121_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120317_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120805_WAZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120805_WAZ_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120806_HZ_AGD.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120806_HZ_AGD_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120806_HZ_IW.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120806_HZ_IW_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120807_RZ_AGD.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120807_RZ_AGD_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120807_RZ_IW.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120807_RZ_IW_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120827_HZ_MPH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120827_HZ_MPH_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120827_HZ_Poet_der_klassischen Gitarre.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120828_HZ_CM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120828_HZ_CM_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120829_RZ_CM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120829_RZ_CM_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120829_RZ_MPH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120829_RZ_MPH_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120918_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/120928_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/121117_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130119_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130309_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130812_HZ_PC.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130812_HZ_PC_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130813_HZ_GA.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130813_HZ_GA_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130813_RZ_GA.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130813_RZ_GA_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130813_RZ_PC.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130813_RZ_PC_Archiv.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130826_HZ_ND.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130827_RZ_GR.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130827_RZ_ND.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/130829_HZ_GR.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/131011_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/131118_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/131122_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140125_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140314_HM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140804_HZ_AG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140804_HZ_AGD.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140805_HZ_AS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140805_RZ_AGD.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140805_RZ_AS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140818_RN_KJ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140819_RN_JC.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140819_RZ_JC.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/140819_RZ_KJ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/141024_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/141128_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/141201_RZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150130_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150313_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150718_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150803_RN_LK.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150804_RN_KM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150817_RN_AGD.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150818_RN_GR.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150914_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/150928_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/151023_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/151204_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/160130_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/160311_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/160815_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/160816_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/160829_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/160830_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/161028_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/161031_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/161130_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/161202_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/161203_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170127_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170128_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170131_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170301_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170310_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170328_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170628_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170814_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170814_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170815_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170826_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170829_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170830_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170902_HZ_Lea-Drueppel-Theater.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170902_HZ_Lea-Drüppel-Theater.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/170926_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/171128_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180109_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180126_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180206_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180223_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180323_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180811_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180813_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180814_REZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180814_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180822_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180828_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180828_RN_trio.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180828_RZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/180905_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/181010_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/181019_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/181121_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/181130_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/181212_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190109_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190201_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190206_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190306_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190313_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190315_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190413_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190812_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190813_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190813_RZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190826_RN_AN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190827_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/190903_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/191011_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/191102_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/191106_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/191111_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/191213_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/200116_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/20016_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/200221_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/2003-11-16_mast_Frankfurtlive.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/200303_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/200811_RN.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/200811_RZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/201010_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/201023_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/201104_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/201107_HZ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/201114_LL.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/201118_SH.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/202108_duo_con_spirito.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/202108_essener_rn.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/202108_essener_rz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/202108_wolters_rn.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/202108_wolters_rz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/202108_zawierucha.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/Schweriner_Erklaerung_2014.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/frankfurtlive/2003-12-16_varus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/frankfurtlive/Frankfurt-Live.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Presse/frankfurtlive/aufgeblättert.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Projekte-Römer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Projekte.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/2009.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/2010.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/2011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/2011.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/2014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2007/Weissgerber-Gitarrenduo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2008/Duetto Giocondo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2008/Katrin Simon.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2008/Niehusmann Gitarren Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2009/Amadeus Guitar Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2009/Duo Ahlert und Schwab.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2009/Joaquin Clerch.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2009/Roman Viazovskiy.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2010/Amadeus Guitar Duo sowie Duo Gruber und Maklar.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2010/Caterina Lichtenberg und Mike Marshall.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2010/Dale Kavanagh.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2010/Irina Kulikova.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2011/GerhardReichenbach.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2011/MuenchnerGitarrentrio.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2011/RafaelAguirreMinarro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2011/WeissgerberGitarrenduo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/AmadeusGuitarDuo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/IanWatt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Marchione.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Mueller-PeringHase.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Amadeus.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Amadeus1_09Kl (1).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Marchione.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Marchione5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Müller-Pering.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Müller-Pering_Hase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Watt.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Konzerte/2012/Vorschau/Watt1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Aktuelles_2011.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Aktuelles_2014.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Index_Foto_1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Index_Foto_2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Index_Foto_3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Index_Text.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Sythen_Index_Text_mit_Onlinebuchung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/SG/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Spendenkonto.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Stiftung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Stiftungsauftrag.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Inhalte/Zustifter.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Kontakt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Konzerte-SG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Konzerte.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/LiS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/MIR.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/MIR_2008_01.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/MIR_2008_02.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/MIR_2008_03.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/MIR_2008_04.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Musik-Download.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Presse.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/PresseVarus.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Projekte.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Sound/APPLAUSE.WAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Spendenkonto.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Stiftung.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Stiftungsauftrag.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/Zustifter.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KSM/Index2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KSM/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KSM/index1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KSM/index4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KSM/index_Normal.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2007/Weissgerber-Gitarrenduo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2008/Duetto Giocondo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2008/Katrin Simon.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2008/Niehusmann Gitarren Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2009/Amadeus Guitar Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2009/Duo Ahlert und Schwab.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2009/Joaquin Clerch.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2009/Roman Viazovskiy.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2010/Amadeus Guitar Duo sowie Duo Gruber und Maklar.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2010/Caterina Lichtenberg und Mike Marshall.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2010/Dale Kavanagh.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2010/Irina Kulikova.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2011/GerhardReichenbach.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2011/MuenchnerGitarrentrio.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2011/RafaelAguirreMinarro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2011/WeissgerberGitarrenduo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/AmadeusGuitarDuo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/IanWatt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Marchione.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Mueller-PeringHase.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Amadeus.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Amadeus1_09Kl (1).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Marchione.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Marchione5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Müller-Pering.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Müller-Pering_Hase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Watt.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/Vorschau/Watt1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Amadeus.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Amadeus1_09Kl (1).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Marchione.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Marchione5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Müller-Pering.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Müller-Pering_Hase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Watt.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2012/_derived/sourcecontrol_Watt1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2013/GuitArtist-Quartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2013/Niehusmann.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2013/Poli Cappelli.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2013/Reichenbach.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2014/AmadeusGuitarDuo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2014/Duo Ahlert und Schwab.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2014/JorgeCaballero.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2014/KuangJunhong.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2015/ARTIS.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2015/Guitar Duo KM.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2015/Lucasz Kuropaczewski.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2015/Reichenbach.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Amadeus.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Amasur.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Duo_Amasur.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Duo_Casals.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Duo_Casals_1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Huppertz.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2016/Zawierucha.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2017/Angenendt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2017/Arie_Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2017/GuitArtist_Quartett.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2017/Lichtenberg_Marshall.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2018/Seres.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2018/Torrent.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2018/Wuttke.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2018/trioLogie.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2019/Amadeus Guitar Duo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2019/ArancibiaNavarro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2019/DuoJoncol.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2019/JorgeCaballero.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2020/Sonderkonzert.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2021/duo_con_spirito.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2021/essener_gitarrenduo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2021/wolters.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Konzerte/2021/zawierucha.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Logo/Impressum.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Logo/Konzertseite.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Logo/Kopf_SG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Inhalte/Logo/Muster.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/SG_KSG.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel-alt-2019.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel02.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel03.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel04.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_2010.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_2011.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_2012.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_2017.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_2017_alt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_2019.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_alt.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_alt_2011.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_alt_2012.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_alt_2013.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_alt_2017.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/DATA/Titel_alt_2018.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Sythener_Gitarrentage_2010.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Sythener_Gitarrentage_2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Sythener_Gitarrentage_2013.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Sythener_Gitarrentage_2018.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Sythener_Gitarrentage_2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SG/Titel.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabbanr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabbck.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabbckh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabbul1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabbul2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabbul3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabhbtn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabhhov.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabhom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabhomh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabhsel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabnxt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabnxth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabrule.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabuph.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabvbtn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabvhov.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/atabvsel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/color0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/color1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/graph0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/graph1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/ksm.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/ksm.utf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/ksm1110.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/ksm1111.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbanr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbck.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbkgnd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbkgndold.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbkgndvar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbul1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbul2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabbul3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabglobl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabhbtn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabhom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabhsel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabnxt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabrule.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabvbtn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/tabvsel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/ksm/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_themes/themes.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/default.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/default.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google06eba7dbe7895714.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksm.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x7wgl9EVk4B41SmCggcevUZZp9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SG/DATA" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dokumente\Masthoff\Kulturstiftung-Masthoff_Serverdaten_03_08_2021\38_bearbeiten\SG\DATA" />
+      <recent name="E:\Dokumente\Masthoff\Kulturstiftung-Masthoff_Serverdaten_03_08_2021\38_bearbeiten\DATA\Inhalte\Presse" />
+      <recent name="E:\Dokumente\Masthoff\Kulturstiftung-Masthoff_Serverdaten_03_08_2021\38_bearbeiten\SG\DATA\Inhalte\Konzerte\2021" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0de271e-addc-4785-bc69-848aa7dd50b2" name="Changes" comment="" />
+      <created>1629719548679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629719548679</updated>
+      <workItem from="1629719549818" duration="5051000" />
+      <workItem from="1629736476908" duration="110000" />
+      <workItem from="1629736588664" duration="2021000" />
+      <workItem from="1629895463313" duration="8549000" />
+      <workItem from="1630499670360" duration="469000" />
+      <workItem from="1630500143591" duration="787000" />
+      <workItem from="1630951340095" duration="7546000" />
+      <workItem from="1631116557734" duration="1942000" />
+      <workItem from="1631191945868" duration="379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

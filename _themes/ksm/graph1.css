@@ -1,0 +1,96 @@
+.mstheme
+{
+	separator-image: url(atabrule.gif);
+	list-image-1: url(atabbul1.gif);
+	list-image-2: url(atabbul2.gif);
+	list-image-3: url(atabbul3.gif);
+	nav-banner-image: url(atabbanr.gif);
+	navbutton-horiz-normal: url(atabhbtn.gif);
+	navbutton-horiz-hovered: url(atabhhov.gif);
+	navbutton-horiz-pushed: url(atabhsel.gif);
+	navbutton-vert-normal: url(atabvbtn.gif);
+	navbutton-vert-hovered: url(atabvhov.gif);
+	navbutton-vert-pushed: url(atabvsel.gif);
+	navbutton-home-normal: url(atabhom.gif);
+	navbutton-home-hovered: url(atabhomh.gif);
+	navbutton-home-pushed: url(atabhom.gif);
+	navbutton-next-normal: url(atabnxt.gif);
+	navbutton-next-hovered: url(atabnxth.gif);
+	navbutton-next-pushed: url(atabnxt.gif);
+	navbutton-prev-normal: url(atabbck.gif);
+	navbutton-prev-hovered: url(atabbckh.gif);
+	navbutton-prev-pushed: url(atabbck.gif);
+	navbutton-up-normal: url(atabup.gif);
+	navbutton-up-hovered: url(atabuph.gif);
+	navbutton-up-pushed: url(atabup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+.mstheme-navtxthome
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Times New Roman, Times New Roman, Times;
+	color: rgb(102, 102, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(atabbul1.gif);
+}
+ul ul
+{
+	list-style-image: url(atabbul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(atabbul3.gif);
+}

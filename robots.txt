@@ -1,0 +1,17 @@
+# Stand 12.08.2009
+User-agent: *
+Allow: /
+Disallow: /_borders/
+Disallow: /_derived/
+Disallow: /_fpclass/
+Disallow: /_overlay/
+Disallow: /_private/
+Disallow: /_themes/
+Disallow: /_vti_cnf/
+Disallow: /_vti_pvt/
+Disallow: /~db/
+Disallow: /~upload/
+Disallow: /cgi-bin/
+Disallow: /DATA/Inhalte/Logo
+Disallow: /DATA/Sound
+Disallow: /images/
