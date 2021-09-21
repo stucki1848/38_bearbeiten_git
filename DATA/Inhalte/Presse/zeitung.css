@@ -1,0 +1,27 @@
+.zeitung_all {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.zeitung_name{
+    text-align: left;
+    font-size: 14px;
+    margin-top: 2%;
+}
+
+.zeitung_inhalt p{
+    text-align: left;
+    font-size: 13px;
+    font-family: Arial, serif;
+    line-height: 150%;
+}
+
+.zeitung_autor {
+    font-size: 10px;
+    font-style: italic;
+}
+
+.zeitung_end a {
+    font-size: 12px;
+}
