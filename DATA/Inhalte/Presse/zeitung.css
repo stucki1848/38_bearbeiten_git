@@ -25,3 +25,7 @@
 .zeitung_end a {
     font-size: 12px;
 }
+
+.keine_zeitung {
+    font-style: italic;
+}
